@@ -1,0 +1,113 @@
+[
+	{
+		"menuUrl": "",
+		"menuId": "010000",
+		"menuName": "기본 설정",
+		"parentId": "010000",
+		"menuStep": 1,
+		"menuSort": 1,
+		"menuType": "N",
+		"used": "1",
+		"active": "",
+		"menuSub": [
+			{
+				"active": "",
+				"menuId": "010100",
+				"menuName": "환경설정",
+				"parentId": "010000",
+				"menuStep": 2,
+				"menuSort": 2,
+				"menuType": "N",
+				"used": "1",
+				"menuUrl": "/gn/sy/config",
+				"menuIcon": ""
+			},
+			{
+				"active": "",
+				"menuId": "010400",
+				"menuName": "공통코드 관리",
+				"parentId": "010000",
+				"menuStep": 2,
+				"menuSort": 4,
+				"menuType": "N",
+				"used": "1",
+				"menuUrl": "/gn/sy/common",
+				"menuIcon": ""
+			},
+			{
+				"active": "",
+				"menuId": "010200",
+				"menuName": "메뉴 관리",
+				"parentId": "010000",
+				"menuStep": 2,
+				"menuSort": 5,
+				"menuType": "N",
+				"used": "1",
+				"menuUrl": "/gn/sy/menu",
+				"menuIcon": ""
+			},
+			{
+				"active": "",
+				"menuId": "010300",
+				"menuName": "회원 관리",
+				"parentId": "010000",
+				"menuStep": 2,
+				"menuSort": 7,
+				"menuType": "N",
+				"used": "1",
+				"menuUrl": "/gn/sy/user/list",
+				"menuIcon": ""
+			}
+		]
+	},
+	{
+		"menuUrl": "",
+		"menuId": "050000",
+		"menuName": "프로그램",
+		"parentId": "050000",
+		"menuStep": 1,
+		"menuSort": 31,
+		"menuType": "N",
+		"used": "1",
+		"active": "",
+		"menuSub": [
+			{
+				"active": "",
+				"menuId": "050200",
+				"menuName": "미생물 관리",
+				"parentId": "050000",
+				"menuStep": 2,
+				"menuSort": 46,
+				"menuType": "N",
+				"used": "1",
+				"menuUrl": "/gn/product",
+				"menuIcon": ""
+			}		
+		]
+	},
+	{
+		"menuUrl": null,
+		"menuId": "060000",
+		"menuName": "통계",
+		"parentId": "060000",
+		"menuStep": 1,
+		"menuSort": 39,
+		"menuType": "N",
+		"used": "1",
+		"active": "",
+		"menuSub": [
+			{
+				"active": "",
+				"menuId": "060200",
+				"menuName": "균종별 공급 현황",
+				"parentId": "060000",
+				"menuStep": 2,
+				"menuSort": 42,
+				"menuType": "N",
+				"used": "1",
+				"menuUrl": "/gn/sa/product",
+				"menuIcon": ""
+			}
+		]
+	}
+]

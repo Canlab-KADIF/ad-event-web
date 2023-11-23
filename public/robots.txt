@@ -1,0 +1,2 @@
+user-agent: * # 모든 로봇(robot)들에 적용
+disallow: / # 모든 페이지들의 색인(indexing) 금지
